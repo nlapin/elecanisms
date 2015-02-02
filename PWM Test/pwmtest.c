@@ -4,7 +4,7 @@
 #include "../lib/ui.h"
 #include "../lib/timer.h"
 #include "../lib/pin.h"
-#include "./lib/oc.h"
+#include "../lib/oc.h"
 
 int16_t main(void) {
 	init_pin();
